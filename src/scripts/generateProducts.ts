@@ -18,7 +18,7 @@ const generateProducts = async (number: number): Promise<void> => {
     await fs.writeFile(PATH_DB, JSON.stringify(products, null, 2), 'utf-8');
     console.log(`${number} products added.`);
   } catch (error) {
-    console.log(error instanceof Error ? error.message : String(error));
+    console.error(error instanceof Error ? error.message : String(error));
   }
 };
 

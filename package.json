@@ -8,7 +8,7 @@
     "generate": "tsx src/scripts/generateProducts.ts",
     "get-products-by-min-price": "tsx src/scripts/getProductsByMinPrice.ts",
     "get-total-price": "tsx src/scripts/getTotalPrice.ts",
-    "get-unique": "tsx src/scripts/getUniqueCategories.ts",
+    "get-unique-categories": "tsx src/scripts/getUniqueCategories.ts",
     "get-mod-list": "tsx src/scripts/modifyProducts.ts",
     "get-groups": "tsx src/scripts/groupProductsByCategories.ts"
   },

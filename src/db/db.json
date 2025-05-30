@@ -1,92 +1,62 @@
 [
   {
     "name": "Soft Marble Table",
-    "price": "405.00",
-    "category": "Grocery",
-    "description": "Luxurious Mouse designed with Ceramic for dazzling performance"
+    "category": "Grocery"
   },
   {
     "name": "Unbranded Wooden Hat",
-    "price": "22.35",
-    "category": "Garden",
-    "description": "New red Bike with ergonomic design for smoggy comfort"
+    "category": "Garden"
   },
   {
     "name": "Soft Concrete Pants",
-    "price": "348.99",
-    "category": "Music",
-    "description": "Professional-grade Pizza perfect for secret training and recreational use"
+    "category": "Music"
   },
   {
     "name": "Handmade Gold Shirt",
-    "price": "354.09",
-    "category": "Games",
-    "description": "New Fish model with 22 GB RAM, 65 GB storage, and natural features"
+    "category": "Games"
   },
   {
     "name": "Generic Silk Sausages",
-    "price": "480.39",
-    "category": "Tools",
-    "description": "Discover the whole new Mouse with an exciting mix of Metal ingredients"
+    "category": "Tools"
   },
   {
     "name": "Unbranded Wooden Pants",
-    "price": "36.60",
-    "category": "Shoes",
-    "description": "Hoeger, Oberbrunner and Lehner's most advanced Gloves technology increases well-made capabilities"
+    "category": "Shoes"
   },
   {
     "name": "Handcrafted Bronze Shoes",
-    "price": "744.39",
-    "category": "Tools",
-    "description": "Introducing the Lao People's Democratic Republic-inspired Cheese, blending crowded style with local craftsmanship"
+    "category": "Tools"
   },
   {
     "name": "Ergonomic Steel Salad",
-    "price": "866.69",
-    "category": "Home",
-    "description": "Discover the dog-like agility of our Keyboard, perfect for wavy users"
+    "category": "Home"
   },
   {
     "name": "Licensed Aluminum Tuna",
-    "price": "29.79",
-    "category": "Games",
-    "description": "Introducing the Vanuatu-inspired Shoes, blending taut style with local craftsmanship"
+    "category": "Games"
   },
   {
     "name": "Awesome Silk Computer",
-    "price": "929.89",
-    "category": "Books",
-    "description": "Discover the rhinoceros-like agility of our Soap, perfect for assured users"
+    "category": "Books"
   },
   {
     "name": "Sleek Bronze Chips",
-    "price": "284.10",
-    "category": "Kids",
-    "description": "Our squirrel-friendly Chicken ensures cooperative comfort for your pets"
+    "category": "Kids"
   },
   {
     "name": "Fantastic Marble Keyboard",
-    "price": "422.59",
-    "category": "Books",
-    "description": "Licensed Cheese designed with Cotton for oblong performance"
+    "category": "Books"
   },
   {
     "name": "Fresh Plastic Chips",
-    "price": "566.75",
-    "category": "Jewelry",
-    "description": "Prohaska and Sons's most advanced Chair technology increases sparkling capabilities"
+    "category": "Jewelry"
   },
   {
     "name": "Sleek Plastic Bike",
-    "price": "389.60",
-    "category": "Computers",
-    "description": "The Kelvin Table is the latest in a series of compassionate products from Paucek, Wehner and Heidenreich"
+    "category": "Computers"
   },
   {
     "name": "Ergonomic Marble Hat",
-    "price": "508.39",
-    "category": "Home",
-    "description": "Stylish Pizza designed to make you stand out with practical looks"
+    "category": "Home"
   }
 ]

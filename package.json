@@ -1,0 +1,38 @@
+{
+  "name": "nodejs-blended-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "generate": "tsx src/scripts/generateProducts.ts",
+    "get-all": "tsx src/scripts/getAllContacts.ts",
+    "get-min": "tsx src/scripts/getProductsByMinPrice.ts",
+    "get-total-price": "tsx src/scripts/getTotalPrice.ts",
+    "get-unique": "tsx src/scripts/getUniqueCategories.ts",
+    "get-mod-list": "tsx src/scripts/modifyProducts.ts",
+    "get-groups": "tsx src/scripts/groupProductsByCategories.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofi-dobriak/nodejs-blended-1.git"
+  },
+  "keywords": [],
+  "author": "Sofi Dobriak <sofi.dobriak@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofi-dobriak/nodejs-blended-1/issues"
+  },
+  "homepage": "https://github.com/sofi-dobriak/nodejs-blended-1#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.27.0",
+    "@faker-js/faker": "^9.8.0",
+    "eslint": "^9.27.0",
+    "globals": "^16.2.0",
+    "tsx": "^4.19.4",
+    "typescript-eslint": "^8.33.0"
+  },
+  "dependencies": {
+    "@types/node": "^22.15.27"
+  }
+}

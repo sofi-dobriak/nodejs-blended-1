@@ -2,7 +2,7 @@ import { PATH_DB } from '../constants/products';
 import { Product } from '../types/product';
 import fs from 'node:fs/promises';
 
-const getProductsByMinPrice = async (price: number) => {
+const getProductsByMinPrice = async (price: number): Promise<void> => {
   try {
     const data: string = await fs.readFile(PATH_DB, 'utf-8');
 
@@ -19,4 +19,4 @@ const getProductsByMinPrice = async (price: number) => {
   }
 };
 
-getProductsByMinPrice(25);
+getProductsByMinPrice(707.2);

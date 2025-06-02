@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 import { PATH_DB } from '../constants/products';
 import { Product } from '../types/product';
 
-const modifyProducts = async (): Promise<void> => {
+const modifyProducts = async (): Promise<Product[]> => {
   try {
     const data: string = await fs.readFile(PATH_DB, 'utf-8');
 
@@ -18,8 +18,13 @@ const modifyProducts = async (): Promise<void> => {
       JSON.stringify(modifyProducts, null, 2),
       'utf-8',
     );
-  } catch (error) {
+
+    console.log('Description field removed');
+
+    return modifyProducts;
+  } catch (error: unknown) {
     console.error(error instanceof Error ? error.message : String(error));
+    return [];
   }
 };
 

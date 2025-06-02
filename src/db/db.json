@@ -1,62 +1,116 @@
 [
   {
-    "name": "Soft Marble Table",
-    "category": "Grocery"
+    "name": "Frozen Gold Ball",
+    "price": "975.45",
+    "category": "Movies",
+    "description": "Experience the azure brilliance of our Car, perfect for upright environments"
   },
   {
-    "name": "Unbranded Wooden Hat",
-    "category": "Garden"
+    "name": "Awesome Wooden Fish",
+    "price": "762.99",
+    "category": "Automotive",
+    "description": "Stylish Gloves designed to make you stand out with cute looks"
   },
   {
-    "name": "Soft Concrete Pants",
-    "category": "Music"
+    "name": "Sleek Bamboo Car",
+    "price": "58.74",
+    "category": "Shoes",
+    "description": "Stylish Bacon designed to make you stand out with vain looks"
   },
   {
-    "name": "Handmade Gold Shirt",
-    "category": "Games"
+    "name": "Tasty Plastic Salad",
+    "price": "805.59",
+    "category": "Music",
+    "description": "The sleek and buttery Shirt comes with black LED lighting for smart functionality"
   },
   {
-    "name": "Generic Silk Sausages",
-    "category": "Tools"
+    "name": "Generic Aluminum Computer",
+    "price": "618.60",
+    "category": "Sports",
+    "description": "Our moist-inspired Computer brings a taste of luxury to your entire lifestyle"
   },
   {
-    "name": "Unbranded Wooden Pants",
-    "category": "Shoes"
+    "name": "Intelligent Concrete Towels",
+    "price": "238.97",
+    "category": "Clothing",
+    "description": "Savor the tangy essence in our Shoes, designed for writhing culinary adventures"
   },
   {
-    "name": "Handcrafted Bronze Shoes",
-    "category": "Tools"
+    "name": "Recycled Concrete Keyboard",
+    "price": "142.89",
+    "category": "Toys",
+    "description": "Discover the tiger-like agility of our Mouse, perfect for oddball users"
   },
   {
-    "name": "Ergonomic Steel Salad",
-    "category": "Home"
+    "name": "Handmade Bamboo Mouse",
+    "price": "803.05",
+    "category": "Automotive",
+    "description": "Our crunchy-inspired Bike brings a taste of luxury to your impossible lifestyle"
   },
   {
-    "name": "Licensed Aluminum Tuna",
-    "category": "Games"
+    "name": "Fantastic Steel Fish",
+    "price": "332.69",
+    "category": "Beauty",
+    "description": "Innovative Towels featuring staid technology and Bronze construction"
   },
   {
-    "name": "Awesome Silk Computer",
-    "category": "Books"
+    "name": "Oriental Plastic Car",
+    "price": "789.19",
+    "category": "Garden",
+    "description": "Experience the olive brilliance of our Keyboard, perfect for untimely environments"
   },
   {
-    "name": "Sleek Bronze Chips",
-    "category": "Kids"
+    "name": "Luxurious Wooden Car",
+    "price": "913.29",
+    "category": "Baby",
+    "description": "New mint green Shoes with ergonomic design for webbed comfort"
   },
   {
-    "name": "Fantastic Marble Keyboard",
-    "category": "Books"
+    "name": "Incredible Steel Bacon",
+    "price": "836.49",
+    "category": "Garden",
+    "description": "Savor the spicy essence in our Chicken, designed for easy culinary adventures"
   },
   {
-    "name": "Fresh Plastic Chips",
-    "category": "Jewelry"
+    "name": "Electronic Plastic Shoes",
+    "price": "739.85",
+    "category": "Clothing",
+    "description": "Discover the immense new Salad with an exciting mix of Bamboo ingredients"
   },
   {
-    "name": "Sleek Plastic Bike",
-    "category": "Computers"
+    "name": "Small Concrete Tuna",
+    "price": "682.79",
+    "category": "Games",
+    "description": "Experience the lime brilliance of our Chips, perfect for watery environments"
   },
   {
-    "name": "Ergonomic Marble Hat",
-    "category": "Home"
+    "name": "Generic Silk Table",
+    "price": "137.80",
+    "category": "Shoes",
+    "description": "Innovative Towels featuring altruistic technology and Steel construction"
+  },
+  {
+    "name": "Practical Plastic Ball",
+    "price": "402.49",
+    "category": "Jewelry",
+    "description": "The pink Ball combines Hungary aesthetics with Neon-based durability"
+  },
+  {
+    "name": "Oriental Wooden Cheese",
+    "price": "878.09",
+    "category": "Movies",
+    "description": "Innovative Ball featuring shimmering technology and Rubber construction"
+  },
+  {
+    "name": "Oriental Rubber Computer",
+    "price": "255.05",
+    "category": "Games",
+    "description": "Ergonomic Bacon made with Rubber for all-day ignorant support"
+  },
+  {
+    "name": "Licensed Wooden Shirt",
+    "price": "382.09",
+    "category": "Sports",
+    "description": "Featuring Antimony-enhanced technology, our Shirt offers unparalleled gigantic performance"
   }
 ]

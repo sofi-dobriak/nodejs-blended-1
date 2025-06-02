@@ -10,7 +10,13 @@
     "get-total-price": "tsx src/scripts/getTotalPrice.ts",
     "get-unique-categories": "tsx src/scripts/getUniqueCategories.ts",
     "modify-products": "tsx src/scripts/modifyProducts.ts",
-    "get-groups": "tsx src/scripts/groupProductsByCategories.ts"
+    "add-one": "tsx src/scripts/addOneProduct.ts",
+    "get-all": "tsx src/scripts/getAllProducts.ts",
+    "count": "tsx src/scripts/countProducts.ts",
+    "clear": "tsx src/scripts/clearProducts.ts",
+    "remove": "tsx src/scripts/removeProduct.ts",
+    "group-products": "tsx src/scripts/groupProductsByCategories.ts",
+    "create-products-files": "tsx src/scripts/createProductsFiles.ts"
   },
   "repository": {
     "type": "git",
